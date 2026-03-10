@@ -3378,6 +3378,56 @@ display:block;
 }
 
 
+/* Expertise-section */
+.expertise-one{
+padding-top:90px;
+padding-bottom:0px;   /* increase bottom space */
+background:#f7f7f7;
+}
+
+.expertise-one__content{
+max-width:850px;
+margin:auto;
+}
+
+.expertise-one__content p{
+font-size:16px;
+line-height:1.8;
+color:#555;
+margin-bottom:18px;
+}
+
+/* Tablet */
+@media (max-width:992px){
+.expertise-one{
+padding-top:70px;
+padding-bottom:90px;
+}
+}
+
+.expertise-one__content p{
+font-size:15px;
+}
+
+
+/* Mobile */
+@media (max-width:768px){
+.expertise-one{
+padding-top:60px;
+padding-bottom:70px;
+}
+
+.expertise-one__content{
+text-align:left;
+}
+
+.expertise-one__content p{
+font-size:14px;
+line-height:1.7;
+}
+
+}
+
 
 /*--------------------------------------------------------------
 # End All Css
