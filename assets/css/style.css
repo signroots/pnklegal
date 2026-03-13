@@ -3466,3 +3466,8 @@ display:flex;
 }
 
 
+.footer-widget__about-text{
+    text-align:justify;
+    text-justify:inter-word;
+    line-height:1.7;
+}
