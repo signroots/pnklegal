@@ -3132,7 +3132,7 @@ margin-top:40px;
 }
 
 .why-content-block{
-background:#fff;
+background: #c1b79a;
 padding:30px;
 border-radius:8px;
 box-shadow:0 10px 25px rgba(0,0,0,0.05);
@@ -3143,6 +3143,9 @@ margin-bottom:10px;
 font-weight:600;
 }
 
+.why-content-block p{
+    color: #050000c7;
+}
 .why-last{
 grid-column:1 / span 2;
 text-align:center;
