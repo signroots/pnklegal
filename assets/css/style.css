@@ -3471,3 +3471,8 @@ display:flex;
     text-justify:inter-word;
     line-height:1.7;
 }
+/*---------------------------
+.team-one__img img{
+    filter: grayscale(100%);
+}
+    --------------------*/
