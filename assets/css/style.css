@@ -3195,12 +3195,14 @@ margin-top:80px;
 .about-one .row{
     display:flex;
     align-items:center;
+    color:#444;
 }
 .about-one__img img,
 .about-one__img-two img{
     max-width:100%;
     height:auto;
 }
+
 
 
 /* disclaimer-section */
@@ -3462,3 +3464,5 @@ z-index:999;
 display:flex;
 }
 }
+
+
