@@ -3476,3 +3476,19 @@ display:flex;
     filter: grayscale(100%);
 }
     --------------------*/
+
+
+    .footer-widget__contact li {
+    margin-bottom: 15px;
+}
+
+
+.footer-widget__contact .icon-pin{
+    margin-right:8px;
+    color:#c1b79a;
+}
+
+.footer-widget__contact span{
+    margin-right:8px;
+    color:#c1b79a;
+}
