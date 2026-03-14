@@ -3616,3 +3616,7 @@ padding:18px;
 .about-content h2{
     margin-bottom: 20px;
 }
+.about-content p{
+    margin-bottom: 15px;
+    line-height: 1.8;
+}
