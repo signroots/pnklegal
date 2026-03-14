@@ -3511,6 +3511,10 @@ font-size:18px;
 margin-top:4px;
 }
 
+.office-item span:not([class^="icon"]){
+color:#ffffff;
+}
+
 .office-item a{
 color:#ffffff;
 text-decoration:none;
