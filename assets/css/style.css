@@ -3634,3 +3634,8 @@ padding:18px;
     object-fit: cover;    /* fills the box properly */
     display: block;
 }
+
+
+.mobile-nav__social{
+display:none !important;
+}
