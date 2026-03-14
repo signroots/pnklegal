@@ -3622,3 +3622,15 @@ padding:18px;
 }
 
 
+.team-one__img {
+    width: 100%;
+    height: 320px;        /* control card image height */
+    overflow: hidden;
+}
+
+.team-one__img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;    /* fills the box properly */
+    display: block;
+}
