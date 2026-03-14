@@ -3646,3 +3646,31 @@ display:none !important;
 .main-menu__top-inner{
 min-height:40px;
 }
+
+
+/* hide mobile image on desktop */
+.about-one__img-mobile{
+display:none;
+}
+
+/* mobile view */
+@media (max-width:768px){
+
+.about-one__img-two{
+display:none;
+}
+
+.about-one__img{
+display:none;
+}
+
+.about-one__img-mobile{
+display:block;
+}
+
+.about-one__img-mobile img{
+width:100%;
+border-radius:10px;
+}
+
+}
