@@ -3492,3 +3492,27 @@ display:flex;
     margin-right:8px;
     color:#c1b79a;
 }
+
+
+.office-details{
+margin-top:20px;
+}
+
+.office-item{
+display:flex;
+align-items:flex-start;
+gap:12px;
+margin-bottom:14px;
+}
+
+.office-item span[class^="icon"]{
+color:#c59d5f;
+font-size:18px;
+margin-top:4px;
+}
+
+.office-item a{
+color:#ffffff;
+text-decoration:none;
+}
+
