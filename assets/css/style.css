@@ -1210,9 +1210,12 @@ xs sidebar
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
-  padding: 5px 55px 5px;
+  padding: 10px 55px 5px;
   background-color: var(--judges-base);
 }
+
+
+
 
 .main-menu__contact-list {
   position: relative;
@@ -3638,4 +3641,8 @@ padding:18px;
 
 .mobile-nav__social{
 display:none !important;
+}
+
+.main-menu__top-inner{
+min-height:40px;
 }
