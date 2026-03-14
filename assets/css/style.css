@@ -3523,3 +3523,11 @@ text-decoration:none;
 .team-one__social{
 display:none;
 }
+
+
+.justify-text{
+    text-align: justify;
+    text-align-last: left;
+    hyphens: auto;
+    line-height: 1.7;
+}
